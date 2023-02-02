@@ -2,3 +2,9 @@ body {
     background-color: bisque;
     color: indigo;
 }
+
+h1 {
+    font-style:italic;
+    color: darkcyan;
+    background-color:azure;
+}
